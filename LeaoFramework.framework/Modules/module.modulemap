@@ -1,0 +1,6 @@
+framework module LeaoFramework {
+  umbrella header "LeaoFramework.h"
+
+  export *
+  module * { export * }
+}
